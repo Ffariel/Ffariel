@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ffariel
+- 👋 Hi, I’m Frank.
 - 👀 I’m interested in subject indexing and research data management.
 - 🌱 I’m currently learning to become a data librarian.
 - 💞️ I’m looking to collaborate on text mining and data bases.
